@@ -4,13 +4,28 @@
 ### Setup
 
 - install fastapi with dependencies
-   "pip install fastapi[all]"
+```
+pip install fastapi[all]
+pip install uvicorn
+
+```
 
 - create project
-   "mkdir proj-name"
+```
+mkdir proj-name"
+
+```
 
 - create venv
-   "python -m venv proj-name-env"
+```
+python -m venv proj-name-env
+
+```
+
 
 - activate venv
-   "/proj-name-env/Scripts/activate "
+```
+ /proj-name-env/Scripts/activate
+
+```
+
