@@ -7,19 +7,16 @@
 ```
 pip install fastapi[all]
 pip install uvicorn
-
 ```
 
 - create project
 ```
 mkdir proj-name"
-
 ```
 
 - create venv
 ```
 python -m venv proj-name-env
-
 ```
 
 
